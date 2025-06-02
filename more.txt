@@ -1,1 +1,7 @@
-This project simulates future stock prices using the Monte Carlo method and Object-Oriented Programming in C++. It’s based on a financial model that assumes stock prices evolve over time with some average growth and random fluctuations. By generating many possible price paths, the simulation helps visualize how a stock might behave under uncertain market conditions. It’s a great way to learn both C++ OOP and core concepts used in quantitative finance, like randomness, volatility, and simulation-based forecasting
+ 📝A Short History~
+
+Monte Carlo simulations were born out of a card game.In the 1940s, physicist Stanislaw Ulam, while recovering from illness, wondered if he could estimate his chances of winning solitaire just by simulating it thousands of times. This sparked the idea of using randomness to solve complex problems.
+
+He teamed up with John von Neumann, and they used the method to simulate nuclear reactions during the Manhattan Project. The name "Monte Carlo" was inspired by Ulam’s uncle, who loved gambling at the Monte Carlo Casino fitting for a method all about chance.
+
+Today, Monte Carlo is everywhere from finance and engineering to AI and climate modeling. It all started with a simple question and a deck of cards.
